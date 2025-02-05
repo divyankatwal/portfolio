@@ -71,35 +71,35 @@ export const gridItems = [
 export const projects = [
     {
         id: 1,
-        title: "NewsFoxy - A Live News Web Application",
-        des: "Get your daily dose of news with NewsFoxy - A live news web application to keep you updated on every category.",
-        img: "/p1.svg",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-        link: "https://github.com/adrianhajdin?tab=repositories",
+        title: "Animated Apple Iphone 3D Website",
+        des: "Recreated the Apple iPhone 16 Pro website, combining GSAP animations and Three.js 3D effects..",
+        img: "/p4.svg",
+        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+        link: "https://apple-website-three-ivory.vercel.app/",
     },
     {
         id: 2,
-        title: "Yoom - Video Conferencing App",
-        des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-        img: "/p2.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-        link: "https://github.com/adrianhajdin/zoom-clone",
+        title: "NewsFoxy - A Live News Web Application",
+        des: "Get your daily dose of news with NewsFoxy - A live news web application to keep you updated on every category.",
+        img: "/news.png",
+        iconLists: ["/re.svg", "/bootstrap.svg", "/js.svg"],
+        link: "https://github.com/divyankatwal/newsapp",
     },
     {
         id: 3,
-        title: "AI Image SaaS - Canva Application",
-        des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-        img: "/p3.svg",
-        iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-        link: "https://github.com/adrianhajdin/ai_saas_app",
+        title: "Text Analyzer- Analyze your text",
+        des: "A text analyzer to analyze your text and gain insights on your text.",
+        img: "/myapp.PNG",
+        iconLists: ["/re.svg", "/bootstrap.svg", "/js.svg"],
+        link: "https://github.com/divyankatwal/my-app",
     },
     {
         id: 4,
-        title: "Animated Apple Iphone 3D Website",
-        des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-        img: "/p4.svg",
-        iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-        link: "https://github.com/adrianhajdin/iphone",
+        title: "ComputerChacha- One Stop Solution For PC",
+        des: "ComputerChacha- A one stop solution for all your pc needs",
+        img: "/cc.png",
+        iconLists: ["/re.svg", "/js.svg", "/html_icon.png", "/css_icon.png"],
+        link: "https://computerchacha-git-master-coolrishabhrawat.vercel.app/",
     },
 ];
 
@@ -172,29 +172,29 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Frontend Engineer Intern",
-        desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
-        className: "md:col-span-2",
+        title: "Ex Founder - ComputerChacha",
+        desc: "Designed and developed web application to fulfil customer needs.",
+        className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp1.svg",
     },
     {
         id: 2,
-        title: "Mobile App Dev - JSM Tech",
-        desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-        className: "md:col-span-2", // change to md:col-span-2
+        title: "Enterprise Networking Trainee",
+        desc: "Assisted in networking of EIL(Engineers India Ltd.) troubleshooting with network errors.",
+        className: "md:col-span-2",
         thumbnail: "/exp2.svg",
     },
     {
         id: 3,
-        title: "Freelance App Dev Project",
-        desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+        title: "Data Analytics Course by Google",
+        desc: "Online training by Coursera",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp3.svg",
     },
     {
-        id: 4,
-        title: "Lead Frontend Developer",
-        desc: "Developed and maintained user-facing features using modern frontend technologies.",
+        id: 1,
+        title: "Data Science Trainee - Internshala",
+        desc: "Completed a six weeks online training by Internshala",
         className: "md:col-span-2",
         thumbnail: "/exp4.svg",
     },
@@ -204,13 +204,16 @@ export const socialMedia = [
     {
         id: 1,
         img: "/git.svg",
+        // link: "https://github.com/divyankatwal"
     },
     {
         id: 2,
         img: "/twit.svg",
+        // link: "https://www.codechef.com/users/lomdichacha"
     },
     {
         id: 3,
         img: "/link.svg",
+        // link: "https://www.linkedin.com/in/divyankatwal/"
     },
 ];
