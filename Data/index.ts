@@ -172,7 +172,7 @@ export const companies = [
 export const workExperience = [
     {
         id: 1,
-        title: "Ex Founder - ComputerChacha",
+        title: "Founder - ComputerChacha",
         desc: "Designed and developed web application to fulfil customer needs.",
         className: "md:col-span-2", // change to md:col-span-2
         thumbnail: "/exp1.svg",
